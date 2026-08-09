@@ -1,0 +1,14 @@
+{
+  'id': 101,
+  "name": "Ana Garcia",
+  "email": "ana.garcia@example.com",
+  "department": "Engineering",
+  "skills": [
+    "JavaScript",
+    "Python",
+  ],
+  "is_active": true
+  "projects": [
+    "Alpha",
+    "Beta"
+}

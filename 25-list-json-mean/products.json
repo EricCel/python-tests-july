@@ -1,0 +1,18 @@
+[
+  {
+    "product": "Laptop",
+    "price": 1200.50
+  },
+  {
+    "product": "Teclado",
+    "price": 45.00
+  },
+  {
+    "product": "Mouse",
+    "price": 25.50
+  },
+  {
+    "product": "Monitor",
+    "price": 300.00
+  }
+]

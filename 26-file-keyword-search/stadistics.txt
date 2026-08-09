@@ -1,0 +1,11 @@
+John Johnson Jr. is an incredible atlete,
+posseses the speed of 100 horses at the same time,
+he must reach early to work,
+otherwise, he will fired.
+Robert Robertson Jr. is an incredible chef,
+cooks at the speed of 100 horses cooking at the same time,
+he must finish his star recipe between a range of 60 minutes,
+otherwise, he will lose the cooking competition.
+Jeniffer is a good lawyer,
+laws at the speed of 100 horses lawing,
+if she dont resolves this case today, the law will do the lawing. 
