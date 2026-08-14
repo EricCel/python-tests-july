@@ -1,0 +1,1 @@
+#Filter a DataFrame by applying two simultaneous logical conditions (e.g., value greater than $X$ and category equal to $Y$).
